@@ -1,6 +1,6 @@
 # **Application Frameworks - Assignment 01**
 
-The University Timetable Management System API is a RESTful API designed to facilitate efficient management of class schedules for students, faculty, and administrative staff within a university setting. This project aims to provide secure access, ensure data integrity, and offer user-friendly interfaces for interacting with the timetable system. This project is developed using Node JS.
+The University Timetable Management System API is a RESTful API designed to facilitate efficient management of class schedules for students, faculty, and administrative staff within a university setting. This project aims to provide secure access, ensure data integrity, and offer user-friendly interfaces for interacting with the timetable system. **This project is developed using Node JS.**
 
 # **Setup Instructions**
 
